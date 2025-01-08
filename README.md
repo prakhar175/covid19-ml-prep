@@ -74,9 +74,4 @@ The models achieved the following accuracy:
 
 The Random Forest and KNN performed slightly better and are recommended for deployment.
 
----
 
-## Future Work
-1. Integrate additional features to improve model accuracy.
-2. Explore deep learning models for enhanced performance.
-3. Build a user-friendly interface for real-time predictions.
